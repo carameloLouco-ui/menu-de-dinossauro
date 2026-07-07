@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Yuyu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Blaka+Ink&family=Yuyu&display=swap');
 
-body {
-  font-family: "Yuyu", sans-serif;
+h1 {
+  font-family: "Blaka Ink", system-ui;
 }
