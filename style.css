@@ -13,3 +13,8 @@ h3 {
 body {
   background-color : #9bc89b;
 }
+
+* {
+  margin: 0;
+  padding: 0;
+}
