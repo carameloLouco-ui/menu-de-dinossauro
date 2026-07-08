@@ -28,3 +28,13 @@ a {
   background: #d5ffd5;
   padding-inline: 16px;
 }
+
+.nav {
+  max-width: 1280px;
+  height: 70px;
+  margin-inline: auto;
+
+  display: flex;
+}
+
+
