@@ -47,5 +47,7 @@ a {
 
 .nav-list a {
   font-size: 18px;
+  color: #9bc89b;
+  padding-block: 16px
 }
 
