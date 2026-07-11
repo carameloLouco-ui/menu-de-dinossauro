@@ -30,8 +30,7 @@ a {
 }
 
 .nav {
-  max-width: 1280px;
-  height: 70px;
+  height: 40px;
   margin-inline: auto;
 
   display: flex;
@@ -51,3 +50,6 @@ a {
   padding-block: 16px
 }
 
+.hero {
+  height: calc(13vh - 70px)
+}
